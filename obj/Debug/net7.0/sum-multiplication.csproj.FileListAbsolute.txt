@@ -1,0 +1,15 @@
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\bin\Debug\net7.0\sum-multiplication.exe
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\bin\Debug\net7.0\sum-multiplication.deps.json
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\bin\Debug\net7.0\sum-multiplication.runtimeconfig.json
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\bin\Debug\net7.0\sum-multiplication.dll
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\bin\Debug\net7.0\sum-multiplication.pdb
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.csproj.AssemblyReference.cache
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.AssemblyInfoInputs.cache
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.AssemblyInfo.cs
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.csproj.CoreCompileInputs.cache
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.dll
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\refint\sum-multiplication.dll
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.pdb
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\sum-multiplication.genruntimeconfig.cache
+C:\Users\PROMACT\Desktop\.net\sum-multiplication\obj\Debug\net7.0\ref\sum-multiplication.dll
